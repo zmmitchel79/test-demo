@@ -1,1 +1,4 @@
-var issue = 123
+
+val issue = 123
+
+val potato = 123

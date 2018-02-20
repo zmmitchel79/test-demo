@@ -1,1 +1,1 @@
-var issue = 123
+val issue = 123
